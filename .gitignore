@@ -1,3 +1,5 @@
 manuscript/*.log
 manuscript/*.gz
 manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.blg
